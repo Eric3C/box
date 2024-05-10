@@ -10,7 +10,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047433/main.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="CCTV5" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173048542.jpg" group-title="央视",CCTV5高清
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047434/main.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="CCTV5+" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173048542.jpg" group-title="央视",CCTV5+高清
+#EXTINF:-1 tvg-id="53" tvg-name="CCTV5+" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173013210.jpg" group-title="央视",CCTV5+高清
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047442/main.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="CCTV6" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173155133.jpg" group-title="央视",CCTV6高清
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047435/main.m3u8
@@ -36,8 +36,6 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000079000000434986/main.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="CCTV17" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172551856.jpg" group-title="央视",CCTV17高清
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024152/main.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="CCTV5+" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173013210.jpg" group-title="央视",CCTV5+高清
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047442/main.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="CGTN" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/07/20220707114834707.jpg" group-title="央视",CGTN
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182292/main.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="CGTN纪录" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725181125666.jpg" group-title="央视",CGTN纪录
