@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视" catchup="default" catchup-source="http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000007000000001243/main.m3u8?starttime=${start:YmdTHMS}.00Z&endtime=${end:YmdTHMS}.00Z",CCTV-1 综合
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?starttime=${start:YmdTHMS}&endtime=${end:YmdTHMS}"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视" catchup="default" catchup-source="http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000007000000001243/main.m3u8,CCTV-1 综合
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
 #EXTINF:-1 tvg-id="6563" tvg-name="中数兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视",CCTV-兵器科技
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244796/main.m3u8
