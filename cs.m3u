@@ -91,7 +91,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182
 #EXTINF:-1 tvg-id="24" tvg-name="长沙影视" tvg-logo="" group-title="本地",长沙影视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182542/main.m3u8
 #EXTINF:-1 tvg-id="201" tvg-name="湖南卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725183537628.jpg" group-title="卫视",湖南卫视高清
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040382/main.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308827/main.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="江苏卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725163331139.jpg" group-title="卫视",江苏卫视高清
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001244/main.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="浙江卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725171935898.jpg" group-title="卫视",浙江卫视高清
