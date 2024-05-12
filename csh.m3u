@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml" catchup="default" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="36" tvg-name="CCTV1" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172041741.jpg" group-title="央视",CCTV1高清
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000007000000001243/main.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="CCTV2" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172738452.jpg" group-title="央视",CCTV2高清
