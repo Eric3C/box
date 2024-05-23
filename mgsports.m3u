@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?starttime=${start:YmdTHMS}.00Z&endtime=${end:YmdTHMS}.00Z"
 
 #EXTINF:-1 logo="" group-title="NBA" ,NBA
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
