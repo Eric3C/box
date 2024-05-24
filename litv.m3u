@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://live.fanmingming.com/tv/TVBS HD.png",TVBS HD
 http://192.168.30.80/litv.php?id=4gtv-4gtv073
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻台.png",TVBS新闻台
