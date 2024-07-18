@@ -1,5 +1,4 @@
-#EXTM3U  catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTM3U url-tvg="https://assets.livednow.com/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视", CCTV 1
 http://192.168.30.80:5000/tptv/G_CCTV-1-AVS-4K264?type=proxy&server=192.168.30.80:8000
