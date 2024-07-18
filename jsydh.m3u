@@ -13,7 +13,7 @@ http://192.168.30.80:5000/tptv/G_CCTV-3-AVS-4K264?type=proxy&server=192.168.30.8
 http://192.168.30.80:5000/tptv/G_CCTV-4-HD-265-8M?type=proxy&server=192.168.30.80:8000
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视", CCTV 5
-http://192.168.30.80:5000/tptv/G_CCTV-5-AVS-4K264?type=proxy&server=192.168.30.80:8000
+http://223.110.243.201:80/PLTV/4/224/3221228502/1.m3u8?accountinfo=8TQdJSrnaF8XmRpA36fZ4%2FT0dkqCs13aSnPI6%2FLTjAB5TOCskI%2Bi4fZMEz1RJ0DsIYuzOkjIEUyc%2FXQYeLA7iAaEKNcZEmuxi3CCNv30pwTteD4RA8oPHzhUcZEY0xjRFgCcgHZcoIABWGUx4GF9bqeo84KrB1TAVruJzkRIWcU%3D%3A20240718155418%2C-1%2C112.25.7.219%2C20240718155418%2CG_CCTV-5-AVS-4K264%2C1769703921370_7A%3A67%3AEB%3A26%3A54%3A47%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000017817440_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FG_CCTV-5-AVS-4K264%2FG_CCTV-5-AVS-4K264&icpid=88888888&from=5&popid=5&hms_devid=243&prioritypopid=5&ua=okhttp%2Fcpbmwh
 
 #EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视", CCTV 5+
 http://192.168.30.80:5000/tptv/G_CCTV-5PLUS-HD-265-8M?type=proxy&server=192.168.30.80:8000
