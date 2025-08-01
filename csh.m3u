@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?starttime=${start:YmdTHMS}.00Z&endtime=${end:YmdTHMS}.00Z"
+#EXTM3U url-tvg="https://epg.51zmt.top:8001/e.xml" catchup="append" catchup-source="?starttime=${start:YmdTHMS}.00Z&endtime=${end:YmdTHMS}.00Z"
 
 #EXTINF:-1 tvg-id="36" tvg-name="CCTV1" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172041741.jpg" group-title="央视",CCTV1高清
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000007000000001243/main.m3u8
