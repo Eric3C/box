@@ -1,40 +1,40 @@
 #EXTM3U url-tvg="https://epg.51zmt.top:8001/e.xml" catchup="append" catchup-source="?starttime=${start:YmdTHMS}.00Z&endtime=${end:YmdTHMS}.00Z"
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172041741.jpg" group-title="央视",CCTV1高清
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172041741.jpg" group-title="央视",CCTV1综合
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000007000000001243/main.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172738452.jpg" group-title="央视",CCTV2高清
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172738452.jpg" group-title="央视",CCTV2财经
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047431/main.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172803660.jpg" group-title="央视",CCTV3高清
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172803660.jpg" group-title="央视",CCTV3综艺
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047432/main.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172832446.jpg" group-title="央视",CCTV4高清
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172832446.jpg" group-title="央视",CCTV4中文国际
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047433/main.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173048542.jpg" group-title="央视",CCTV5高清
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173048542.jpg" group-title="央视",CCTV5体育
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047434/main.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173013210.jpg" group-title="央视",CCTV5+高清
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173013210.jpg" group-title="央视",CCTV5+体育赛事
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047442/main.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173155133.jpg" group-title="央视",CCTV6高清
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173155133.jpg" group-title="央视",CCTV6电影
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047435/main.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173212543.jpg" group-title="央视",CCTV7高清
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173212543.jpg" group-title="央视",CCTV7国防军事
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047436/main.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173231667.jpg" group-title="央视",CCTV8高清
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173231667.jpg" group-title="央视",CCTV8电视剧
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047437/main.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173251823.jpg" group-title="央视",CCTV9高清
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725173251823.jpg" group-title="央视",CCTV9记录
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047438/main.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172111575.jpg" group-title="央视",CCTV10高清
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172111575.jpg" group-title="央视",CCTV10科教
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047439/main.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172135014.jpg" group-title="央视",CCTV11高清
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172135014.jpg" group-title="央视",CCTV11戏曲
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000026000000446966/main.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172158936.jpg" group-title="央视",CCTV12高清
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172158936.jpg" group-title="央视",CCTV12社会与法
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047440/main.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172228027.jpg" group-title="央视",CCTV13高清
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172228027.jpg" group-title="央视",CCTV13新闻
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000050000000133801/main.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172253401.jpg" group-title="央视",CCTV14高清
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172253401.jpg" group-title="央视",CCTV14少儿
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047441/main.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172316897.jpg" group-title="央视",CCTV15高清
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172316897.jpg" group-title="央视",CCTV15音乐
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000026000000446967/main.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172345479.jpg" group-title="央视",CCTV16高清
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172345479.jpg" group-title="央视",CCTV16奥林匹克
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000085000000178450/main.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172551856.jpg" group-title="央视",CCTV17高清
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172551856.jpg" group-title="央视",CCTV17农业农村
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000025000000024152/main.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/07/20220707114834707.jpg" group-title="央视",CGTN
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000000000000020000000000182292/main.m3u8
