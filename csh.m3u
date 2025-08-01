@@ -28,7 +28,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000026000000446
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047440/main.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172228027.jpg" group-title="央视",CCTV13高清
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000050000000133801/main.m3u8
-#EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172253401.jpg" group-title="央视",CCTV少儿高清
+#EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172253401.jpg" group-title="央视",CCTV14少儿高清
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047441/main.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172316897.jpg" group-title="央视",CCTV15高清
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000026000000446967/main.m3u8
