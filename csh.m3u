@@ -92,7 +92,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000002001/00000000000000020000000000182
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000000000000020000000000182541/main.m3u8
 #EXTINF:-1 tvg-name="长沙影视" tvg-logo="" group-title="本地",长沙影视
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000000000000020000000000182542/main.m3u8
-#EXTINF:-1 tvg-name="歌手2025·4K机位" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725183537628.jpg" group-title="卫视4K",湖南卫视我是歌手
+#EXTINF:-1 tvg-name="歌手2025·4K机位" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725183537628.jpg" group-title="卫视4K",湖南卫视.我是歌手4K
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024051115115876100680691227085/main.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/湖南卫视-4K.png" group-title="卫视4K",湖南卫视 4K
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308827/main.m3u8
