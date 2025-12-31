@@ -92,12 +92,18 @@ http://tvgslb.hn.chinamobile.com:8089/180000002001/00000000000000020000000000182
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000000000000020000000000182541/main.m3u8
 #EXTINF:-1 tvg-name="长沙影视" tvg-logo="" group-title="本地",长沙影视
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000000000000020000000000182542/main.m3u8
-#EXTINF:-1 tvg-name="歌手2025·4K机位" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725183537628.jpg" group-title="卫视",歌手2025·4K机位
+#EXTINF:-1 tvg-name="歌手2025·4K机位" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725183537628.jpg" group-title="卫视",湖南卫视我是歌手
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024051115115876100680691227085/main.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/湖南卫视-4K.png" group-title="卫视",湖南卫视 4K
+http://36.158.166.3:8089/180000001001/00000001000000000064000000308827/main.m3u8?channel-id=ystenlive&Contentid=1000000000064000000308827&livemode=1&stbId=4
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725183537628.jpg" group-title="卫视",湖南卫视高清
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000064000000308827/main.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/江苏卫视-4K.png" group-title="卫视",江苏卫视 4K
+http://36.158.166.3:8089/180000001001/32025091110262178928213010539289/main.m3u8?channel-id=ystenlive&Contentid=1110262078079170451541005&livemode=1&stbId=4
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725163331139.jpg" group-title="卫视",江苏卫视高清
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000007000000001244/main.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/浙江卫视-4K.png" group-title="卫视",浙江卫视 4K
+http://36.158.166.3:8089/180000001001/32025091110262252695540491433081/main.m3u8?channel-id=ystenlive&Contentid=1000000000064000000308827&livemode=1&stbId=4
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725171935898.jpg" group-title="卫视",浙江卫视高清
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000007000000001250/main.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725113231271.jpg" group-title="卫视",安徽卫视高清
@@ -130,8 +136,12 @@ http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000010000000040
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047447/main.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725141018514.jpg" group-title="卫视",广西卫视高清
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000090000000215605/main.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/山东卫视-4K.png" group-title="卫视",山东卫视 4K
+http://36.158.166.3:8089/180000001001/32025091110262122088149630612658/main.m3u8?channel-id=ystenlive&Contentid=1016455754529971118212688&livemode=1&stbId=4
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725165651094.jpg" group-title="卫视",山东卫视高清
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047448/main.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/四川卫视-4K.png" group-title="卫视",四川卫视 4K
+http://36.158.166.3:8089/180000001001/32025091110262063636605981698869/main.m3u8?channel-id=ystenlive&Contentid=1110262078079170451541005&livemode=1&stbId=4
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/26/20220726090618602.jpg" group-title="卫视",四川卫视高清
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000064000000308823/main.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172009941.jpg" group-title="卫视",重庆卫视高清
