@@ -114,13 +114,13 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/32025041016455754529971118212
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047443/main.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725171302755.jpg" group-title="卫视",天津卫视高清
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047444/main.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/东方卫视-4K.png" group-title="卫视4k",东方卫视4K
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/fyrjwh/tb/raw/wh/东方卫视-4K.png" group-title="卫视4K",东方卫视4K
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262078079170451541005/main.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725140848818.jpg" group-title="卫视",东方卫视高清
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047445/main.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725163407763.jpg" group-title="卫视",江西卫视高清
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000064000000308822/main.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视4K.png" group-title="卫视4k",深圳卫视 4K
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视4K.png" group-title="卫视4K",深圳卫视 4K
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32025061216044934209640975946187/main.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725171146845.jpg" group-title="卫视",深圳卫视高清
 http://tvgslb.hn.chinamobile.com:8089/180000002001/00000001000000000008000000047446/main.m3u8
